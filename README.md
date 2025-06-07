@@ -1,2 +1,5 @@
 # -1st-day
-Hiii! I am Gayatri Kolkur . Today I am learned how to create git hub profile. As well as how to create 1st repository.
+Hi! I am Gayatri Kolkur. Today, I learned how to create a GitHub profile as well as how to create my first repository.
+<br>
+After that, I tried to download Git, but due to some technical issues, I wasn't able to complete the download."
+
